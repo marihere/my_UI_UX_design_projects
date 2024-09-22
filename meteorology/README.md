@@ -7,7 +7,7 @@
 
 ## Table of contents
 1. [Presentation](https://github.com/marihere/my_UI_UX_design_projects/blob/master/meteorology#Presentation)
-2. [Interactive project](https://github.com/marihere/my_UI_UX_design_projects/blob/master/meteorology#Project_file)
+2. [Project file](https://github.com/marihere/my_UI_UX_design_projects/blob/master/meteorology#project-file)
 
 <br>
 
@@ -20,6 +20,6 @@
 
 ## Project file
 
-<a href="https://embed.figma.com/design/2hhP7OmbKykgoJhm1vZuSH/meteorology?embed-host=share"><p>Click here to open</p></a>
+[Click here to open](https://embed.figma.com/design/2hhP7OmbKykgoJhm1vZuSH/meteorology?embed-host=share)
 
 <br>
