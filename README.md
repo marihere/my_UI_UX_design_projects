@@ -1,8 +1,8 @@
 # My  UI/UX design projects
 
-#
-
 This repository contains some of my UI/UX design projects.
+
+<br>
 <br>
 
 ## List of my projects
@@ -11,6 +11,10 @@ This repository contains some of my UI/UX design projects.
 
 - [meteorology](https://github.com/marihere/my_UI_UX_design_projects/blob/master/meteorology)
 <img src="meteorology/images/banner.png">
+
+<br>
+
+#
 
 <br>
 
