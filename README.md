@@ -6,6 +6,10 @@ This repository contains some of my UI/UX design projects.
 <br>
 
 ## List of my projects
+
+- [whispers](https://github.com/marihere/my_UI_UX_design_projects/blob/master/whispers)
+<img src="whispers/images/banner.png">
+
 - [Ristosushi](https://github.com/marihere/my_UI_UX_design_projects/blob/master/ristosushi)
 <img src="ristosushi/images/banner.png">
 
