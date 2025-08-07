@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner.png" >
-</p>
+<img src="images/banner.png" >
 
 #
 
